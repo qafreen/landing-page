@@ -137,3 +137,22 @@ blockquote{
     margin-bottom: 100px;
 }
 
+.action{
+    display: flex;
+    justify-content: center;
+    background-color: #3882f6;
+    padding: 32px;
+    color: #e5e7eb;
+    gap: 120px;
+    margin: 60px 200px; 
+    border-radius: 8px;
+}
+
+.button2{
+    border: 1.5px solid #e5e7eb;
+}
+
+.heading{
+    font-weight:700;
+}
+
