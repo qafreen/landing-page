@@ -2,6 +2,9 @@
 *{
     font-family: 'Roboto';
 }
+body{
+    margin: 0px;
+}
 .header{
     background-color: #1f2937;
     color: #f9faf8;
